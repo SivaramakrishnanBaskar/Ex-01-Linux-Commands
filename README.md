@@ -1,4 +1,4 @@
-# Ex-01-Linux-Commands
+# Ex.3 Linux Command Execution at any Linux VM
 ## Aim:
 
 To study the execution of various Linux operating system commands.
